@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Faria Nusrat Binte
 
-🎓 Final-year CS student at AIUB  
+🎓 Final-year CSE student at AIUB  
 💻 Learning Full-Stack Web Development (MERN Stack)  
 🔒 Researching Cloud Security & 5G VNFs  
 🧠 Love solving problems & exploring new tech  
